@@ -1,0 +1,85 @@
+.leftEdge {	
+	/*float: left;*/
+	justify-content: left;
+}
+
+.rightEdge {
+	float: right;
+	justify-content: right;
+}
+.container{
+	width: 800px;
+	/*margin: 30px 30px;*/
+}
+/*body {
+	max-width: 800px;
+	width: 70%;
+	margin: 2% auto;
+}*/
+h1 {
+	font-size: 30px;
+	margin:	5px auto;
+}
+h3{
+	margin:	15px 0px auto auto;
+}
+
+hr {
+	margin: 2px auto;
+}
+
+.profileBlock {
+	/*clear: left;*/
+}
+
+ul {
+	/*margin: 2px 2px;*/
+}
+a{
+	color: black;
+}
+
+#ulBul{
+	/*padding:-15px;*/
+    /*-webkit-padding-start: 15px;*/
+}
+
+ul, menu, dir {
+    /*display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;sub
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;*/
+    -webkit-padding-start: 20px;
+}
+
+/*div {
+margin:0;
+padding:0;
+}*/
+
+ul{
+	/*padding: 0;*/
+	margin:0;
+}
+
+.padZero{
+	padding: 0;
+}
+.padLeftZero{
+	padding-left: 0;
+}
+.padRightZero{
+	padding-right: 0;
+}
+
+.lessImp{
+	color: #C0C0C0;
+}
+div{
+	text-align: justify;
+}
+
+#topLink{
+	padding-bottom: 10px;
