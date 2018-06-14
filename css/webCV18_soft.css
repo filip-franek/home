@@ -83,3 +83,18 @@ div{
 
 #topLink{
 	padding-bottom: 10px;
+}
+
+.ai-researchgate{
+/*	background: black;
+	color: white;*/
+	font-size:1.4em;
+	font-weight: 700;
+}
+.fa-couch{
+	margin-bottom: -1px;
+}
+
+.topMargin0{
+	margin-top: 0px;
+}
